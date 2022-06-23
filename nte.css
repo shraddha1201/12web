@@ -28,7 +28,7 @@ header::before{
     opacity: 0.7;
 }
 section::before{
-    background: url(/ab1/bg.jpg);
+    background: url(bg.jpg);
     content: "";
     position: absolute;
     top: 0;
